@@ -9,7 +9,7 @@ This is a simple userscript that automatically removes content restrictions on [
 - Works seamlessly on all Glassdoor subdomains, at least on Chrome-based browsers.
 
 ## Installation
-To use this script, you need a userscript manager such as Tampermonkey, Greasemonkey, or SleazyFork.
+To use this script, you need a userscript manager such as Tampermonkey, Greasemonkey, SleazyFork, etc.
 
 ### Install the Script
 Working on getting a clickable link that will directly install the userscript into the monkey script managers, like found  [**here**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass). For now, simply copy the contents of that .js script into your userscript manager.
